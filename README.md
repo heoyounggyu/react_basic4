@@ -21,3 +21,14 @@
     json-server --watch db.json
 # 아래를 실행이 안된다면 아래를 적용한다
      npx json-server --watch db.json
+     
+     
+     
+     
+   
+    ![image](https://github.com/heoyounggyu/react_basic4/assets/129017041/b34d6540-734d-4e53-a545-2ce89fa9fb6d)
+    
+  # index.js에 셋팅하기
+    
+    ![image](https://github.com/heoyounggyu/react_basic4/assets/129017041/8bc76bcd-654e-41d1-aac1-ead09eb46fab)
+
